@@ -119,11 +119,13 @@ Significant + negative lift → Control wins
 Not significant → No clear winner
 
 ## 📂 Project Structure
+```text
 ab-testing-dashboard/
 ├── AB_dashboard.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## 👤 Author
 

@@ -225,7 +225,7 @@ def calculate_sample_size(baseline_rate, mde, alpha=0.05, beta=0.20):
 # Header
 st.markdown("""
 <div style="margin-bottom: 20px;">
-    <div class="header-title">⚖️ A/B Testing Dashboard</div>
+    <div class="header-title">⚖️ A/B Testing Dashboard by Robert Marsh Deku</div>
     <div class="header-subtitle">Analyze experiments with statistical significance testing</div>
 </div>
 """, unsafe_allow_html=True)
